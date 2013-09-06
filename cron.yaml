@@ -1,0 +1,4 @@
+cron:
+- description: twitter stream read
+  url: /api/stream
+  schedule: every 5 minutes
